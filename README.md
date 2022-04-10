@@ -147,3 +147,7 @@ And other advantage when I Refactor the code i can understand that the code is c
 Some advantages of having a clean code is that is faster programming. It may also benefit other users who view our projects because it becomes easier to read, as it is more concise and straightforward.
 
 Also and advantage of  refactoring was an decrease in macro run time. The original analysis took approximately for 2017 Before: 0.5 seconds afrter the refactoring it takes: 0.085 seconds adn for 2018: Before it takes 0.47 seconds and after: 0.07 seconds (evidence is attached).
+![Before 2017](https://user-images.githubusercontent.com/101935525/162636611-6109f718-6427-429b-9b75-3e2885564601.png)
+![Before 2018](https://user-images.githubusercontent.com/101935525/162636631-fa4d926e-11e1-4861-8a85-fa97bf1f9293.png)
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/101935525/162636634-81a72ed0-293c-4ef8-86c1-c6d7cc9d6424.png)
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/101935525/162636635-d5cbeee5-0bba-4b78-9d74-f11bb2b6c508.png)
